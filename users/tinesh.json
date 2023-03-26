@@ -1,0 +1,12 @@
+{
+	"Name": "tinesh",
+	"Age": 43,
+	"Contact": "123456",
+	"Company": "td tech",
+	"Address": {
+		"City": "Tanjore",
+		"State": "Tn",
+		"Country": "In",
+		"Pincode": 636003
+	}
+}

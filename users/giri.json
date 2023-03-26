@@ -1,0 +1,12 @@
+{
+	"Name": "giri",
+	"Age": 33,
+	"Contact": "123456",
+	"Company": "pd tech",
+	"Address": {
+		"City": "Madurai",
+		"State": "Tn",
+		"Country": "In",
+		"Pincode": 636003
+	}
+}

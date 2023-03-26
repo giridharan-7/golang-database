@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 13,
+	"Contact": "546656",
+	"Company": "Ad tech",
+	"Address": {
+		"City": "Karur",
+		"State": "Tn",
+		"Country": "In",
+		"Pincode": 636003
+	}
+}

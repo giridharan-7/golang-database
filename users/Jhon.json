@@ -1,0 +1,12 @@
+{
+	"Name": "Jhon",
+	"Age": 23,
+	"Contact": "123456",
+	"Company": "Gd tech",
+	"Address": {
+		"City": "Salem",
+		"State": "Tn",
+		"Country": "In",
+		"Pincode": 636003
+	}
+}

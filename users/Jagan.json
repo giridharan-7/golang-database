@@ -1,0 +1,12 @@
+{
+	"Name": "Jagan",
+	"Age": 26,
+	"Contact": "123456",
+	"Company": "jd tech",
+	"Address": {
+		"City": "Chennai",
+		"State": "Tn",
+		"Country": "In",
+		"Pincode": 636003
+	}
+}
